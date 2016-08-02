@@ -1,0 +1,29 @@
+{
+  "name": "ospcomponentlibrary",
+  "description": "",
+  "main": "dist/name.js",
+  "authors": [
+    "keyadesai"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/killercentury/sc-sg-angular",
+  "dependencies": {
+    "angular": "~1.0.6"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "91350c1ea3",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "91350c1ea3ccf188443fc80fd08fb4ccaf2d4484"
+  },
+  "_source": "git://github.com/killercentury/sc-sg-angular.git",
+  "_target": "*",
+  "_originalSource": "killercentury/sc-sg-angular"
+}
